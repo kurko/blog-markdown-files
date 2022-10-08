@@ -1,6 +1,5 @@
 ---
 share: true
-layout: post
 title: "Software Complexity: Naming"
 date: 2017-04-05 15:02:54 -0200
 filename: "essay/_posts/2017-04-05-software-naming"
